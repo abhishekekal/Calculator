@@ -22,9 +22,13 @@ You can access the live version of the calculator here: [Live Demo](https://abhi
 ---
 
 calculator/
+
 ├── index.html      # Main HTML file
+
 ├── style.css       # CSS for styling
+
 ├── script.js       # JavaScript for functionality
+
 └── README.md       # Project documentation
 
 
