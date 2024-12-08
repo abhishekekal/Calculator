@@ -16,7 +16,7 @@ A simple, user-friendly calculator built using **HTML**, **CSS**, and **JavaScri
 
 ## Demo
 
-You can access the live version of the calculator here: [Live Demo]()  
+You can access the live version of the calculator here: [Live Demo](https://abhishekekal.github.io/Calculator/)  
 *(Replace `#` with the link to your live deployment if available, e.g., GitHub Pages.)*
 
 ---
